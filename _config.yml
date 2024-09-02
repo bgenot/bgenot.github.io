@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Baptiste Genot"
   avatar           : "3953273590_704e3899d5_m.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. in cellular biology since 2016. I am a plant and protist biologist. I like to observe how cell react to environment changes"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=baptiste+genot"
@@ -102,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9070-1772"
   pinterest        :
   soundcloud       :
   stackoverflow    :
