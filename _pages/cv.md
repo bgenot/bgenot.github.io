@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "bonjour"
+title: "Researcher in plant and algae biology"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 201220122012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. Plant Production and Agri-Food Industries (PVIA), University Picardy Jules Verne, Amiens France, 2014
+* Ph.D in Cellular Biology, Université Paris-Saclay, France, 2016 (https://theses.fr/2016SACLE010)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024- present: Project researcher
+Graduate school of frontier sciences, the University of Tokyo, Maruyama lab
+Evolution of photosynthesis, photosymbiosis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-2024: Post-doctoral scientist
+Postdoctoral fellow at the Bigelow Laboratory for ocean sciences, East Boothbay,
+USA, J. Burns laboratory. 1) Salamander/algae symbiosis : new microscopy and
+molecular biology tools to better understand a unique symbiosis. 2) Algae stress
+signaling : Clues of phyto-hormone activity in Glaucophyta.
+
+
+* 2016-2018: Post-doctoral scientist
+Postdoctoral fellow at the Institut Jacques Monod, Paris, France, I. Jupin
+laboratory (currently closed). Characterization of molecular interactions
+established during the replication of the Turnip Yellow Mosaic Virus in
+Arabidopsis thaliana.
+
+* 2012-2016: PhD student
+PhD research in the Stress Signaling lab led by Dr. Jean Colcombet at the Institute
+of Plant Sciences of Paris-Saclay (IPS2), Paris, France. Functional
+characterization of the stress-activated Arabidopsis MAP Kinase MPK3 using
+gain-of-function mutations.
   
 Skills
 ======
