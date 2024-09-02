@@ -8,6 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Genot, B., Burns, J.A., 2022. Transformation of the symbiotic alga Oophila amblystomatis: a new tool for animal-algae symbiosis studies. Symbiosis 87, 143–151. https://doi.org/10.1007/s13199-022-00861-0
 
 Genot, B., Grogan, M., Yost, M., Iacono, G., Archer, S.D., Burns, J.A., 2024. Functional stress responses in Glaucophyta: Evidence of ethylene and abscisic acid functions in Cyanophora paradoxa. Journal of Eukaryotic Microbiology n/a, e13041. https://doi.org/10.1111/jeu.13041
@@ -25,6 +26,7 @@ Lang, J., Genot, B., Hirt, H., Colcombet, J., 2017. Constitutive activity of the
 Latrasse, D., Jégu, T., Li, H., de Zelicourt, A., Raynaud, C., Legras, S., Gust, A., Samajova, O., Veluchamy, A., Rayapuram, N., Ramirez-Prado, J.S., Kulikova, O., Colcombet, J., Bigeard, J., Genot, B., Bisseling, T., Benhamed, M., Hirt, H., 2017. MAPK-triggered chromatin reprogramming by histone deacetylase in plant innate immunity. Genome Biology 18, 131. https://doi.org/10.1186/s13059-017-1261-8
 
 Yang, H., Genot, B., Duhamel, S., Kerney, R., Burns, J.A., 2022. Organismal and cellular interactions in vertebrate–alga symbioses. Biochemical Society Transactions 50, 609–620. https://doi.org/10.1042/BST20210153
+
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
