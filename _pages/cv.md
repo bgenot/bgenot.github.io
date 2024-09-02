@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.S. Plant Production and Agri-Food Industries (PVIA), University Picardy Jules Verne, Amiens France, 2014
 * Ph.D in Cellular Biology, Université Paris-Saclay, France, 2016 (https://theses.fr/2016SACLE010)
-
+  
+* M.S. Plant Production and Agri-Food Industries (PVIA), University Picardy Jules Verne, Amiens France, 2014
+  
 Work experience
 ======
 * 2024- present: Project researcher
@@ -22,9 +23,10 @@ Evolution of photosynthesis, photosymbiosis
 
 * 2020-2024: Post-doctoral scientist
 Postdoctoral fellow at the Bigelow Laboratory for ocean sciences, East Boothbay,
-USA, J. Burns laboratory. 1) Salamander/algae symbiosis : new microscopy and
-molecular biology tools to better understand a unique symbiosis. 2) Algae stress
-signaling : Clues of phyto-hormone activity in Glaucophyta.
+USA, J. Burns laboratory.
+1) Salamander/algae symbiosis : new microscopy and
+molecular biology tools to better understand a unique symbiosis.
+2) Algae stress signaling : Clues of phyto-hormone activity in Glaucophyta.
 
 
 * 2016-2018: Post-doctoral scientist
