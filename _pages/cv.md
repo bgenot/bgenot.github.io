@@ -68,6 +68,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Grants
 ======
-* Currently signed in to 43 different slack teams
+• Internal Bigelow laboratory “seed 2023” grant (30,000 USD) - Identification of hormone
+signaling pathway in Dinoflagellates: can we link hormone production to the species lifestyle ?
+
+• PhD fellowship received by École doctorale Structure et Dynamique des Systèmes Vivants
+(ED577) - Université Paris-Saclay - National Institute of Research in Agriculture and
+Environment (INRAE).
