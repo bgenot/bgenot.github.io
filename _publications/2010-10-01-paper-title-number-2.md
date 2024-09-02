@@ -6,10 +6,14 @@ excerpt: 'This paper is about Arabidopsis lines expression a Constitutively Acti
 date: 2017-06
 venue: 'Plant physiology'
 paperurl: 'https://doi.org/10.1080/15592324.2017.1356533'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Genot B, Lang J, Berriri S, et al (2017) Constitutively Active Arabidopsis MAP Kinase 3
+Triggers Defense Responses Involving Salicylic Acid and SUMM2 Resistance Protein. Plant
+Physiol 174:1238–1249.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+
+
