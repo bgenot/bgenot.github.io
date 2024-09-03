@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "mypicture.jpg"
-  name             : "Baptiste Genot Ph.D"
+  name             : "Baptiste Genot"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in cellular biology since 2016. I am a plant and protist biologist. I like to observe how cell react to environment changes"
+  bio              : "Ph.D. in cellular biology since 2016. I am a plant and protist biologist. I like to observe how cell react to environment changes. よろしく！"
   location         : "Tokyo, Japan"
   employer         : "The University of Tokyo"
   uri              : # URL
