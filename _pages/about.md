@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Publication list"
+title: "Welcome to my science pages"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,30 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-
-Genot, B., Burns, J.A., 2022. Transformation of the symbiotic alga Oophila amblystomatis: a new tool for animal-algae symbiosis studies. Symbiosis 87, 143–151. https://doi.org/10.1007/s13199-022-00861-0
-
-Genot, B., Grogan, M., Yost, M., Iacono, G., Archer, S.D., Burns, J.A., 2024. Functional stress responses in Glaucophyta: Evidence of ethylene and abscisic acid functions in Cyanophora paradoxa. Journal of Eukaryotic Microbiology n/a, e13041. https://doi.org/10.1111/jeu.13041
-
-Genot, B., Lang, J., Berriri, S., Garmier, M., Gilard, F., Pateyron, S., Haustraete, K., Van Der Straeten, D., Hirt, H., Colcombet, J., 2017. Constitutively Active Arabidopsis MAP Kinase 3 Triggers Defense Responses Involving Salicylic Acid and SUMM2 Resistance Protein. Plant Physiology 174, 1238–1249. https://doi.org/10.1104/pp.17.00378
-
-Burns, J.A., Becker, K.P., Casagrande, D., Daniels, J., Roberts, P., Orenstein, E., Vogt, D.M., Teoh, Z.E., Wood, R., Yin, A.H., Genot, B., Gruber, D.F., Katija, K., Wood, R.J., Phillips, B.T., 2024a. An in situ digital synthesis strategy for the discovery and description of ocean life. Sci Adv 10, eadj4960. https://doi.org/10.1126/sciadv.adj4960
-
-Burns, J.A., Daniels, J., Becker, K.P., Casagrande, D., Roberts, P., Orenstein, E., Vogt, D.M., Teoh, Z.E., Wood, R., Yin, A.H., Genot, B., Wood, R.J., Katija, K., Phillips, B.T., Gruber, D.F., 2024b. Transcriptome sequencing of seven deep marine invertebrates. Sci Data 11, 679. https://doi.org/10.1038/s41597-024-03533-4
-
-Lang, J., Genot, B., Bigeard, J., Colcombet, J., 2022. MPK3 and MPK6 control salicylic acid signaling by up-regulating NLR receptors during pattern- and effector-triggered immunity. Journal of Experimental Botany 73, 2190–2205. https://doi.org/10.1093/jxb/erab544
-
-Lang, J., Genot, B., Hirt, H., Colcombet, J., 2017. Constitutive activity of the Arabidopsis MAP Kinase 3 confers resistance to Pseudomonas syringae and drives robust immune responses. Plant Signaling & Behavior 12, e1356533. https://doi.org/10.1080/15592324.2017.1356533
-
-Latrasse, D., Jégu, T., Li, H., de Zelicourt, A., Raynaud, C., Legras, S., Gust, A., Samajova, O., Veluchamy, A., Rayapuram, N., Ramirez-Prado, J.S., Kulikova, O., Colcombet, J., Bigeard, J., Genot, B., Bisseling, T., Benhamed, M., Hirt, H., 2017. MAPK-triggered chromatin reprogramming by histone deacetylase in plant innate immunity. Genome Biology 18, 131. https://doi.org/10.1186/s13059-017-1261-8
-
-Yang, H., Genot, B., Duhamel, S., Kerney, R., Burns, J.A., 2022. Organismal and cellular interactions in vertebrate–alga symbioses. Biochemical Society Transactions 50, 609–620. https://doi.org/10.1042/BST20210153
-
-A data-driven personal website
+A tiny world
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Tiny Tiny green algae
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
 
 Getting started
 ======
