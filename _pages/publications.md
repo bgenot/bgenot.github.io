@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -18,7 +17,8 @@ author_profile: true
 {% endfor %}
 
 
-##Protist biology and photosymbiosis
+Protist biology and photosymbiosis
+---------------
 
 **Genot, B.**, Grogan, M., Yost, M., Iacono, G., Archer, S.D., Burns, J.A., 2024. Functional stress responses in Glaucophyta: Evidence of ethylene and abscisic acid functions in Cyanophora paradoxa. Journal of Eukaryotic Microbiology n/a, e13041. [DOI](https://doi.org/10.1111/jeu.13041)
 
@@ -27,14 +27,16 @@ author_profile: true
 Yang, H., **Genot, B.**, Duhamel, S., Kerney, R., Burns, J.A., 2022. Organismal and cellular interactions in vertebrate–alga symbioses. Biochemical Society Transactions 50, 609–620. [DOI](https://doi.org/10.1042/BST20210153)
 
 
-##Ocean sciences
+Ocean sciences
+---------------
 
 Burns, J.A., Becker, K.P., Casagrande, D., Daniels, J., Roberts, P., Orenstein, E., Vogt, D.M., Teoh, Z.E., Wood, R., Yin, A.H., **Genot, B.**, Gruber, D.F., Katija, K., Wood, R.J., Phillips, B.T., 2024a. An in situ digital synthesis strategy for the discovery and description of ocean life. Sci Adv 10, eadj4960. [DOI](https://doi.org/10.1126/sciadv.adj4960)
 
 Burns, J.A., Daniels, J., Becker, K.P., Casagrande, D., Roberts, P., Orenstein, E., Vogt, D.M., Teoh, Z.E., Wood, R., Yin, A.H., **Genot, B.**, Wood, R.J., Katija, K., Phillips, B.T., Gruber, D.F., 2024b. Transcriptome sequencing of seven deep marine invertebrates. Sci Data 11, 679. [DOI](https://doi.org/10.1038/s41597-024-03533-4)
 
 
-##Plant Biology
+Plant Biology
+---------------
 
 **Genot, B.**, Lang, J., Berriri, S., Garmier, M., Gilard, F., Pateyron, S., Haustraete, K., Van Der Straeten, D., Hirt, H., Colcombet, J., 2017. Constitutively Active Arabidopsis MAP Kinase 3 Triggers Defense Responses Involving Salicylic Acid and SUMM2 Resistance Protein. Plant Physiology 174, 1238–1249. [DOI](https://doi.org/10.1104/pp.17.00378)
 
