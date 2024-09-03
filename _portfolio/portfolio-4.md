@@ -1,8 +1,8 @@
 ---
 title: "Sea anemone"
-excerpt: "Sea anemone Exaiptasia<br/><img src='/images/sean2.tif'>"
+excerpt: "Sea anemone Exaiptasia<br/><img src='/images/sean3.jpg'>"
 collection: portfolio
 ---
 
-![SeaAnemone](sean2.tif)
+![SeaAnemone](sean3.jpg)
 
