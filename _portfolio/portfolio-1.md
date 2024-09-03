@@ -1,7 +1,7 @@
 ---
-title: "Sea anemone"
-excerpt: "Sea anemone Exaiptasia<br/><img src='/images/sean2.tif'>"
+title: "photosymbiosis"
+excerpt: "Salamander<br/><img src='/images/salam.png'>"
 collection: portfolio
 ---
-![SeaAnemone](sean2.tif)
+![photosymbiosis in a salamander](salam.png)
 
