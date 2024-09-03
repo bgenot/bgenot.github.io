@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can find my articles on <u><a href="https://scholar.google.com/citations?user=xQFdaysAAAAJ">my Google Scholar profile</a></u>.
 {% endif %}
@@ -14,8 +13,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-
 ---
 Protist biology and photosymbiosis
 ---
