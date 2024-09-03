@@ -1,5 +1,10 @@
+---
+permalink: /
+title: "Publication list"
+excerpt: "About me"
+author_profile: true
+---
 
-#"Publications"
 
 
 {% if site.author.googlescholar %}
