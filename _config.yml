@@ -34,7 +34,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "light" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -149,8 +149,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-  -assets
-keep_files:
+  keep_files:
   - .git
   - .svn
 encoding: "utf-8"
