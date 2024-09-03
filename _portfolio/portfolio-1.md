@@ -6,6 +6,6 @@ collection: portfolio
 
 Image 
 
- !(/images/Salam.png)
+ ![](/images/Salam.png)
 
 test
