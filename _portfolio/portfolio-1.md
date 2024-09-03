@@ -1,7 +1,7 @@
 ---
 title: "photosymbiosis"
-excerpt: "Salamander<br/><img src='/images/salam.png'>"
+excerpt: "Salamander<br/><img src='/images/Salam.png'>"
 collection: portfolio
 ---
-![photosymbiosis in a salamander](/images/salam.png)
+![photosymbiosis in a salamander](/images/Salam.png)
 
