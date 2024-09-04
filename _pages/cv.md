@@ -14,8 +14,8 @@ Education
 * Ph.D in Cellular Biology, Université Paris-Saclay, France, 2016 ([archives link](https://theses.fr/2016SACLE010))
   
 * M.S. Plant Production and Agri-Food Industries (PVIA), University Picardy Jules Verne, Amiens France, 2012
-
 ---
+
   
 Work experience
 ======
@@ -56,7 +56,7 @@ Keywords
 ======
 plant science, protist biology, Arabidopsis culture, in vitro plant culture, microbiology, algae culture, cell culture, DNA/RNA/protein extraction, molecular biology, biochemistry, microscopy, omics, molecular labeling.
 
---
+---
 
 Publications
 ======
