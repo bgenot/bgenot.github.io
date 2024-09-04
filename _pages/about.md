@@ -11,8 +11,8 @@ redirect_from:
 A tiny world
 ======
 Tiny Tiny green algae
-
-
+<span style="font-size:0.5em;">Tiny Tiny green algae</span>
+<span style="font-size:2em;">Tiny Tiny green algae</span>
 
 Getting started
 ======
