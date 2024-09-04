@@ -25,8 +25,8 @@ Area of research: Evolution of photosynthesis, photosymbiosis, coral reef biolog
 
 * 2020-2024: Post-doctoral scientist
 Bigelow Laboratory for Ocean Sciences, East Boothbay,USA.
-J. Burns laboratory [see website]
-(https://www.protistsystems.org/)
+J. Burns laboratory
+[see website](https://www.protistsystems.org/)
 Area of research: Salamander/algae symbiosis, Algae stress signaling, Ocean sciences.
 
 
