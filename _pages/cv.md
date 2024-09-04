@@ -14,6 +14,8 @@ Education
 * Ph.D in Cellular Biology, Université Paris-Saclay, France, 2016 ([archives link](https://theses.fr/2016SACLE010))
   
 * M.S. Plant Production and Agri-Food Industries (PVIA), University Picardy Jules Verne, Amiens France, 2012
+
+---
   
 Work experience
 ======
@@ -47,14 +49,20 @@ The Institute of Plant Sciences of Paris-Saclay (IPS2), Paris, France. Stress Si
 
 PhD research: Functional characterization of the stress-activated Arabidopsis MAP Kinase MPK3 using
 gain-of-function mutations.
+
+---
   
 Keywords
 ======
 plant science, protist biology, Arabidopsis culture, in vitro plant culture, microbiology, algae culture, cell culture, DNA/RNA/protein extraction, molecular biology, biochemistry, microscopy, omics, molecular labeling.
 
+--
+
 Publications
 ======
   You can see them [here](https://bgenot.github.io/publications/) or check my Google Scholar or PubMed links on the left side :scroll:
+
+---
   
 Talks
 ======
@@ -64,6 +72,8 @@ glaucophyte alga”.
 
 • 10th Congress of the International Symbiosis Society – Lyon, France, July 2022 – oral
 presentation and “teaching symbiosis” workshop on salamander/algae symbiosis.
+
+---
   
 Teaching
 ======
@@ -77,6 +87,8 @@ and interpretation of results, poster and talk preparation, and moral support.
 
 • Mentored an undergraduate student (2015) at the Institute of Plant Sciences of Paris-Saclay
 (IPS2), Paris, France
+
+---
   
 Grants
 ======
