@@ -37,7 +37,7 @@ Area of research: Salamander/algae symbiosis, Algae stress signaling, Ocean scie
 
 Institut Jacques Monod, Paris, France. I. Jupin laboratory (closed)
 
-Area of research: phytovirus replication, plant stress signaling/
+Area of research: phytovirus replication, plant stress signaling.
 
 ---
 
