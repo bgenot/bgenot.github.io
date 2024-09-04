@@ -14,6 +14,8 @@ Education
 * Ph.D in Cellular Biology, Université Paris-Saclay, France, 2016 ([archives link](https://theses.fr/2016SACLE010))
   
 * M.S. Plant Production and Agri-Food Industries (PVIA), University Picardy Jules Verne, Amiens France, 2012
+
+  
 ---
 
   
