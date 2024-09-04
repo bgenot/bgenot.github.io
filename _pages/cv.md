@@ -18,10 +18,15 @@ Education
 Work experience
 ======
 2024- present: Project researcher
+
 Graduate School of Frontier Sciences, the University of Tokyo,
+
 Maruyama lab
+
 [See website](https://purple149824.studio.site/EN/About)
+
 Area of research: Evolution of photosynthesis, photosymbiosis, coral reef biology.
+
 
 2020-2024: Post-doctoral scientist
 Bigelow Laboratory for Ocean Sciences, East Boothbay,USA.
