@@ -19,26 +19,21 @@ Work experience
 ======
 2024- present: Project researcher
 
-Graduate School of Frontier Sciences, the University of Tokyo,
-
-Maruyama lab
-
-[See website](https://purple149824.studio.site/EN/About)
-
+Graduate School of Frontier Sciences, the University of Tokyo, Maruyama lab [see website](https://purple149824.studio.site/EN/About)
+---
 Area of research: Evolution of photosynthesis, photosymbiosis, coral reef biology.
 
 
 2020-2024: Post-doctoral scientist
-Bigelow Laboratory for Ocean Sciences, East Boothbay,USA.
-J. Burns laboratory
-[see website](https://www.protistsystems.org/)
+Bigelow Laboratory for Ocean Sciences, East Boothbay,USA. J. Burns laboratory [see website](https://www.protistsystems.org/)
+
+
 Area of research: Salamander/algae symbiosis, Algae stress signaling, Ocean sciences.
 
 
-2016-2018: Post-doctoral scientist
-Institut Jacques Monod, Paris, France.
-I. Jupin laboratory (closed)
-Area of research: phytovirus replication, plant stress signaling
+2016-2018: Post-doctoral scientist /
+Institut Jacques Monod, Paris, France. I. Jupin laboratory (closed)/
+Area of research: phytovirus replication, plant stress signaling/
 
 2012-2016: PhD student
 The Institute of Plant Sciences of Paris-Saclay (IPS2), Paris, France. 
