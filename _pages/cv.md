@@ -18,55 +18,58 @@ Education
 Work experience
 ======
 * 2024- present: Project researcher
-Graduate school of frontier sciences, the University of Tokyo, Maruyama lab
-Evolution of photosynthesis, photosymbiosis
+Graduate School of Frontier Sciences, the University of Tokyo,
+Maruyama lab
+[See website](https://purple149824.studio.site/EN/About)
+Area of research: Evolution of photosynthesis, photosymbiosis, coral reef biology.
 
 * 2020-2024: Post-doctoral scientist
-Postdoctoral fellow at the Bigelow Laboratory for ocean sciences, East Boothbay,
-USA, J. Burns laboratory.
-1) Salamander/algae symbiosis : new microscopy and
-molecular biology tools to better understand a unique symbiosis.
-2) Algae stress signaling : Clues of phyto-hormone activity in Glaucophyta.
+Bigelow Laboratory for Ocean Sciences, East Boothbay,USA.
+J. Burns laboratory [see website]
+(https://www.protistsystems.org/)
+Area of research: Salamander/algae symbiosis, Algae stress signaling, Ocean sciences.
 
 
 * 2016-2018: Post-doctoral scientist
-Postdoctoral fellow at the Institut Jacques Monod, Paris, France, I. Jupin
-laboratory (currently closed). Characterization of molecular interactions
-established during the replication of the Turnip Yellow Mosaic Virus in
-Arabidopsis thaliana.
+Institut Jacques Monod, Paris, France.
+I. Jupin laboratory (closed)
+Area of research: phytovirus replication, plant stress signaling
 
 * 2012-2016: PhD student
-PhD research in the Stress Signaling lab led by Dr. Jean Colcombet at the Institute
-of Plant Sciences of Paris-Saclay (IPS2), Paris, France. Functional
-characterization of the stress-activated Arabidopsis MAP Kinase MPK3 using
+The Institute of Plant Sciences of Paris-Saclay (IPS2), Paris, France. 
+Stress Signaling lab, Dr. Jean Colcombet.
+PhD research: Functional characterization of the stress-activated Arabidopsis MAP Kinase MPK3 using
 gain-of-function mutations.
   
-Skills
+Keywords
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+plant science, protist biology, Arabidopsis culture, in vitro plant culture, microbiology, algae culture, cell culture, DNA/RNA/protein extraction, molecular biology, biochemistry, microscopy, omics, molecular labeling.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  You can see them [here](https://bgenot.github.io/publications/) or check my Google Scholar or PubMed links on the left side :scroll:
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ • International Society for Evolutionary Protistology (ISEP23) – virtual meeting, January 2023 –
+oral presentation “Exploring how single cells process information: Hormone activity in a
+glaucophyte alga”.
+
+• 10th Congress of the International Symbiosis Society – Lyon, France, July 2022 – oral
+presentation and “teaching symbiosis” workshop on salamander/algae symbiosis.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+• Lab instructor, Sea change semester (2021 and 2022), Bigelow laboratory & Colby College :
+preparation of lecture material, demonstration of experiments, and grading lab reports.
+
+• Mentored 4 REU students at Bigelow laboratory (2021-2022): experimental advice, planning
+and interpretation of results, poster and talk preparation, and moral support.
+
+• Mentored 2 post-graduate students (2016-2018) at the Institut Jacques Monod, Paris, France.
+
+• Mentored an undergraduate student (2015) at the Institute of Plant Sciences of Paris-Saclay
+(IPS2), Paris, France
   
 Grants
 ======
