@@ -26,8 +26,8 @@ Area of research: Evolution of photosynthesis, photosymbiosis, coral reef biolog
 ---
 
 2020-2024: Post-doctoral scientist
-Bigelow Laboratory for Ocean Sciences, East Boothbay,USA. J. Burns laboratory [see website](https://www.protistsystems.org/)
 
+Bigelow Laboratory for Ocean Sciences, East Boothbay,USA. J. Burns laboratory [see website](https://www.protistsystems.org/)
 
 Area of research: Salamander/algae symbiosis, Algae stress signaling, Ocean sciences.
 
@@ -36,6 +36,7 @@ Area of research: Salamander/algae symbiosis, Algae stress signaling, Ocean scie
 2016-2018: Post-doctoral scientist 
 
 Institut Jacques Monod, Paris, France. I. Jupin laboratory (closed)
+
 Area of research: phytovirus replication, plant stress signaling/
 
 ---
