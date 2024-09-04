@@ -1,6 +1,6 @@
 ---
 title: "Photosymbiosis in vertebrates"
-excerpt: "Salamander<br/><img src='/images/Salam.png'>"
+excerpt: "Salamander-algae symbiosis<br/><img src='/images/Salam.png'>"
 collection: portfolio
 ---
 
