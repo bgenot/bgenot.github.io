@@ -23,7 +23,7 @@ Work experience
 ======
 2024- present: Project researcher
 
-Graduate School of Frontier Sciences, the University of Tokyo, Maruyama lab [website](https://purple149824.studio.site/EN/About)
+Graduate School of Frontier Sciences, the University of Tokyo, Maruyama lab ([website](https://purple149824.studio.site/EN/About))
 
 Areas of research: Evolution of photosynthesis, photosymbiosis, coral reef biology.
 
@@ -31,7 +31,7 @@ Areas of research: Evolution of photosynthesis, photosymbiosis, coral reef biolo
 
 2020-2024: Post-doctoral scientist
 
-Bigelow Laboratory for Ocean Sciences, East Boothbay, USA. J. Burns laboratory [website](https://www.protistsystems.org/)
+Bigelow Laboratory for Ocean Sciences, East Boothbay, USA. J. Burns laboratory ([website](https://www.protistsystems.org/))
 
 Areas of research: Salamander/algae symbiosis, Algae stress signaling, Ocean sciences.
 
