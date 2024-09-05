@@ -28,7 +28,10 @@ I was surprised to see that plants and crops were subjected to diseases like us.
 America
 After a break, I had the opportunity to join an Ocean sciences lab in Maine, USA. I had time to think after my PhD and I was happy to leave Paris and Arabidopsis. It looks like a big change but not really. I was still working with photosynthetic things after all.
 
-<img src="path/to/japanflag.png" alt="France" width="300"/>
+<img src="path/to/images/japanflag.png" alt="Japan" width="300"/>
+
+
+---
 
 
 ![](/images/japanflag.png){width=300px}
