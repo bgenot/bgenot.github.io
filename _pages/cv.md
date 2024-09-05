@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Cellular Biology, Université Paris-Saclay, France, 2016 ([archives link](https://theses.fr/2016SACLE010))
+* Ph.D in Cellular Biology, Université Paris-Saclay, France, 2016 ([link](https://theses.fr/2016SACLE010))
   
 * M.S. Plant Production and Agri-Food Industries (PVIA), University Picardy Jules Verne, Amiens France, 2012
 
@@ -23,17 +23,17 @@ Work experience
 ======
 2024- present: Project researcher
 
-Graduate School of Frontier Sciences, the University of Tokyo, Maruyama lab [see website](https://purple149824.studio.site/EN/About)
+Graduate School of Frontier Sciences, the University of Tokyo, Maruyama lab [website](https://purple149824.studio.site/EN/About)
 
-Area of research: Evolution of photosynthesis, photosymbiosis, coral reef biology.
+Areas of research: Evolution of photosynthesis, photosymbiosis, coral reef biology.
 
 ---
 
 2020-2024: Post-doctoral scientist
 
-Bigelow Laboratory for Ocean Sciences, East Boothbay,USA. J. Burns laboratory [see website](https://www.protistsystems.org/)
+Bigelow Laboratory for Ocean Sciences, East Boothbay, USA. J. Burns laboratory [website](https://www.protistsystems.org/)
 
-Area of research: Salamander/algae symbiosis, Algae stress signaling, Ocean sciences.
+Areas of research: Salamander/algae symbiosis, Algae stress signaling, Ocean sciences.
 
 ---
 
@@ -41,7 +41,7 @@ Area of research: Salamander/algae symbiosis, Algae stress signaling, Ocean scie
 
 Institut Jacques Monod, Paris, France. I. Jupin laboratory (closed)
 
-Area of research: phytovirus replication, plant stress signaling.
+Areas of research: phytovirus replication, plant stress signaling.
 
 ---
 
@@ -54,9 +54,9 @@ gain-of-function mutations.
 
 ---
   
-Keywords
+Research interests
 ======
-plant science, protist biology, Arabidopsis culture, in vitro plant culture, microbiology, algae culture, cell culture, DNA/RNA/protein extraction, molecular biology, biochemistry, microscopy, omics, molecular labeling.
+Plant and algae biology, photo-symbiosis. Cells responses to biotic and abiotic environmental challenges, in particular stress signaling processes at the cellular and molecular level. Biochemistry, molecular biology and microscopy approaches.
 
 ---
 
