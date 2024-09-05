@@ -21,23 +21,21 @@ Education
   
 Work experience
 ======
-2024- present: Project researcher
-
+<span style="font-size:1.2em;">2024- present: Project researcher</span>
 Graduate School of Frontier Sciences, the University of Tokyo, Maruyama lab ([website](https://purple149824.studio.site/EN/About))
 
 Areas of research: Evolution of photosynthesis, photosymbiosis, coral reef biology.
 
 ---
 
-2020-2024: Post-doctoral scientist
-
+<span style="font-size:1.2em;">2020-2024: Post-doctoral scientist</span>
 Bigelow Laboratory for Ocean Sciences, East Boothbay, USA. J. Burns laboratory ([website](https://www.protistsystems.org/))
 
 Areas of research: Salamander/algae symbiosis, Algae stress signaling, Ocean sciences.
 
 ---
 
-2016-2018: Post-doctoral scientist 
+<span style="font-size:1.2em;">2016-2018: Post-doctoral scientist</span>
 
 Institut Jacques Monod, Paris, France. I. Jupin laboratory (closed)
 
@@ -45,7 +43,7 @@ Areas of research: phytovirus replication, plant stress signaling.
 
 ---
 
-2012-2016: PhD student
+<span style="font-size:1.2em;">2012-2016: PhD student</span>
 
 The Institute of Plant Sciences of Paris-Saclay (IPS2), Paris, France. Stress Signaling lab, Dr. Jean Colcombet.
 
