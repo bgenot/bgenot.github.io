@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Posts"
 permalink: /posts/
 author_profile: true
 ---
@@ -8,6 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
+{% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
