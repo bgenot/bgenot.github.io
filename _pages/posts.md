@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Science Pages"
+permalink: /posts/
 author_profile: true
 ---
 
