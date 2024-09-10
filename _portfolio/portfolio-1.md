@@ -13,4 +13,4 @@ Here is another picture using standard fluorescence microscopy. You can see a co
 
 ![](/images/p3.png)
 
-Some of these data might be published as I adapted the protocol to clear and probe the algae in the animal tissues ! The samples are imaged in ethyl cinnamate, allowing better picture quality under fluoresence.
+Some of these data might be published as I adapted the protocol to clear and probe the algae in the animal tissues! The samples are imaged in ethyl cinnamate, allowing better picture quality under fluorescence.
