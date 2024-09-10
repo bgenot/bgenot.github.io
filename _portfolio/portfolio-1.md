@@ -9,7 +9,7 @@ The yellow-spotted Salamander bears green algae inside its body and its cells. H
 
  ![](/images/Salam.png)
 
-Here is another picture using standard fluorescence microscopy. You can see a couple of algae (in red, I used a FISH ^[wiki](https://en.wikipedia.org/wiki/Fluorescence_in_situ_hybridization)^ probe to detect the algae) inside the animal.
+Here is another picture using standard fluorescence microscopy. You can see a couple of algae (in red, I used a FISH ([wiki](https://en.wikipedia.org/wiki/Fluorescence_in_situ_hybridization)) probe to detect the algae) inside the animal.
 
 ![](/images/p3.png)
 
