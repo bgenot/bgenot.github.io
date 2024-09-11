@@ -65,7 +65,7 @@ gain-of-function mutations.
 
 Publications
 ======
-  You can see them [here](https://bgenot.github.io/publications/) or check my Google Scholar or PubMed links on the left side :scroll:
+  You can see them [here](https://bgenot.github.io/publications/) or check my Google Scholar or PubMed links on the left side 
 
 ---
   
