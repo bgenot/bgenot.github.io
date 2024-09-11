@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+  
+Research interests
+======
+Plant and algae biology, photo-symbiosis. Cells responses to biotic and abiotic environmental challenges, in particular stress signaling processes at the cellular and molecular level. Biochemistry, molecular biology and microscopy approaches.
+
+---
+
+
 Education
 ======
 * Ph.D in Cellular Biology, Université Paris-Saclay, France, 2016 ([link](https://theses.fr/2016SACLE010))
@@ -53,12 +61,7 @@ PhD research: Functional characterization of the stress-activated Arabidopsis MA
 gain-of-function mutations.
 
 ---
-  
-Research interests
-======
-Plant and algae biology, photo-symbiosis. Cells responses to biotic and abiotic environmental challenges, in particular stress signaling processes at the cellular and molecular level. Biochemistry, molecular biology and microscopy approaches.
 
----
 
 Publications
 ======
