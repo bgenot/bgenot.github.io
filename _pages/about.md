@@ -10,6 +10,9 @@ redirect_from:
 
 ---
 
+![](/images/cringe.png)
+
+
 A tiny world
 ======
 よろしくお願いします! Welcome! I am Baptiste, a researcher at the University of Tokyo, Graduate School of Frontier Sciences. We are located on the Kashiwa campus in Chiba prefecture. Our graduate school encompasses a broad spectrum of scientific disciplines. You will discover on these pages that I am focusing my studies on tiny photosynthetic organisms from fresh or seawater habitats. How did photosynthesis machinery evolve and what are its specificities in old or forgotten photosynthetic eukaryotes are the main questions that motivate my research. I also work on photosymbiosis using different models such as the sea anemone Exaiptasia. I am interested to understand how the host and the symbiont can communicate and how photosynthesis machinery can differ when the algae is free-living or a symbiont.  
