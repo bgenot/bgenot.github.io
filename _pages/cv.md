@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-![cv.pdf](/files/CVpdf.pdf)
+[cv.pdf](/files/CVpdf.pdf)
 {% include base_path %}
 
   
