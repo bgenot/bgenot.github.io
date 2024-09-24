@@ -69,11 +69,17 @@ Publications
 
 ---
   
-Talks
+Talks and other communications
 ======
- • International Society for Evolutionary Protistology (ISEP23) – virtual meeting, January 2023 –
-oral presentation “Exploring how single cells process information: Hormone activity in a
-glaucophyte alga”.
+
+• 2nd Asia-Oceania International Congress on Photosynthesis (AOICP), Kobe, Japan - presented by S. Maruyama, September 2024 - Poster "Stress Response Mechanisms and Growth Trade-Offs in Algae: Deciphering Phytohormone Roles in Glaucophyta."
+
+• PSA-ISOP-ISEP Joint Meeting, Seattle, USA - presented by J. Burns, July 2024 - Oral presentation "Functional stress responses in Glaucophyta: Evidence of ethylene and abscisic acid functions in *Cyanophora paradoxa*" Seattle.
+
+• Phycological Society of America (PSA) Annual Meeting, Providence, USA, June 2023 –  Oral presentation “Exploring how single cells process information: Hormone activity in a glaucophyte alga.”
+
+• International Society for Evolutionary Protistology (ISEP23) – virtual meeting, January 2023 –
+oral presentation “Exploring how single cells process information: Hormone activity in a glaucophyte alga.”
 
 • 10th Congress of the International Symbiosis Society – Lyon, France, July 2022 – oral
 presentation and “teaching symbiosis” workshop on salamander/algae symbiosis.
