@@ -12,7 +12,7 @@ redirect_from:
   
 Research interests
 ======
-Plant and algae biology, photo-symbiosis. Cells responses to biotic and abiotic environmental challenges, in particular stress signaling processes at the cellular and molecular level. Biochemistry, molecular biology and microscopy approaches.
+Plant and algae biology, photo-symbiosis. Cells respond to biotic and abiotic environmental challenges, particularly stress signaling processes at the cellular and molecular level. Biochemistry, molecular biology and microscopy approaches.
 
 ---
 
