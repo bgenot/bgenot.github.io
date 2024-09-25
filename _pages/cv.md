@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[cv.pdf](/files/CVbgenot.pdf)
+
 {% include base_path %}
 
   
@@ -109,3 +109,6 @@ signaling pathway in Dinoflagellates: can we link hormone production to the spec
 • PhD fellowship received by École doctorale Structure et Dynamique des Systèmes Vivants
 (ED577) - Université Paris-Saclay - National Institute of Research in Agriculture and
 Environment (INRAE).
+
+
+*pdf version* [cv.pdf](/files/CVbgenot.pdf)
