@@ -10,6 +10,8 @@ author_profile: true
 Protist biology and photosymbiosis
 ---------------
 
+Aoki R, Inui Y, Okabe Y, Sato M, Takeda-Kamiya N, Toyooka K, Sawada K, Morita H, **Genot B**, Maruyama S, Tomo T, Sonoike K, Matsunaga S., 2024 <span style="font-size:1.2em;">Incorporation of photosynthetically active algal chloroplasts in cultured mammalian cells towards photosynthesis in animals.</span> Proc Jpn Acad Ser B Phys Biol Sci, 100(9):524-536. [DOI](https://doi.org/10.2183/pjab.100.035)
+
 **Genot, B.**, Grogan, M., Yost, M., Iacono, G., Archer, S.D., Burns, J.A., 2024. <span style="font-size:1.2em;">Functional stress responses in Glaucophyta: Evidence of ethylene and abscisic acid functions in Cyanophora paradoxa.</span> Journal of Eukaryotic Microbiology n/a, e13041. [DOI](https://doi.org/10.1111/jeu.13041)
 
 **Genot, B.**, Burns, J.A., 2022. <span style="font-size:1.2em;">Transformation of the symbiotic alga Oophila amblystomatis: a new tool for animal-algae symbiosis studies.</span> Symbiosis 87, 143–151. [DOI](https://doi.org/10.1007/s13199-022-00861-0)
