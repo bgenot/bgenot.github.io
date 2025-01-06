@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Researcher in plant and algae biology"
+title: "Project Assistant Professor in plant and algae biology"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -31,7 +31,7 @@ Work experience
 ======
 <span style="font-size:1.2em;">2024- present: Project researcher</span>
 
-Graduate School of Frontier Sciences, the University of Tokyo, Maruyama lab ([website](https://purple149824.studio.site/EN/About))
+The University of Tokyo, Graduate School of Frontier Sciences, Department of Integrated Biosciences, Maruyama lab ([website](https://xxxxxxxxxxx))
 
 Areas of research: Evolution of photosynthesis, photosymbiosis, coral reef biology.
 
