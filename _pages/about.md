@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-![](/images/graphsumm2.png)
+![](/images/g_summ1.png)
 
 
 A tiny world
