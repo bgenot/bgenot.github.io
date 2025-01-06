@@ -39,6 +39,5 @@ I am now in Japan to continue my journey, please enjoy these pages and discover 
 
 
 
-<span style="font-size:0.5em;">Tiny Tiny green algae</span>
-<span style="font-size:2em;">Tiny Tiny green algae</span>
+
 
