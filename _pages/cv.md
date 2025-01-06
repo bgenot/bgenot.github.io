@@ -29,7 +29,7 @@ Education
   
 Work experience
 ======
-<span style="font-size:1.2em;">2024- present: Project researcher</span>
+<span style="font-size:1.2em;">2024- present: Project Assistant Professor</span>
 
 The University of Tokyo, Graduate School of Frontier Sciences, Department of Integrated Biosciences, Maruyama lab ([website](https://xxxxxxxxxxx))
 
